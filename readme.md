@@ -5,16 +5,16 @@ __open a terminal...__
 ```shell
 $ sudo apt-get install conky-all -y
 $ sudo apt-get install git -y
-$ cd~/
+$ cd ~/
 $ git clone https://github.com/wSmithyeah/KhadasVim2conky.git
 ```
 
-*** setup up autostart for it ***
-+ use the menu
-system<br/>
-preferences<br/>
-personal<br/>
-startup applications<br/>
+__setup up autostart for it__
++ use the menu<br/>
+&nbsp;system<br/>
+&nbsp;&nbsp;preferences<br/>
+&nbsp;&nbsp;&nbsp;personal<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;startup applications<br/>
  
 **add the following command line item to the list**
 
